@@ -57,7 +57,7 @@ var APP_DATA = {
           "yaw": -1.7146914371878132,
           "pitch": 0.03160682728627151,
           "title": "Informação Decoração",
-          "text": "Esta unidade decorada tem apenas a finalidade de ilustrar uma sugestão de decoração proposta para o objeto de venda.Móveis, marcenaria, bancadas, cubas, louças, metais, vidros, espelhos, utensílios, objetos de decoração, iluminação e sancas apresentados neste decorado são apenas sugestões de decoração, não integrando o contrato de compra e venda da unidade autônoma.<div>Os revestimentos de pisos, paredes, forros e demais acabamentos apresentados nesta unidade decorada também compõe a sugestão de decoração. A unidade autônoma será entregue conforme o padrão disposto no Memorial Descritivo, que integra o instrumento de compra e venda. Os acabamentos poderão ser modificados conforme o programa My Choice.</div>"
+          "text": "Esta unidade decorada tem apenas a finalidade de ilustrar uma sugestão de decoração proposta para o objeto de venda. Móveis, marcenaria, bancadas, cubas, louças, metais, vidros, espelhos, utensílios, objetos de decoração, iluminação e sancas apresentados neste decorado são apenas sugestões de decoração, não integrando o contrato de compra e venda da unidade autônoma.<div>Os revestimentos de pisos, paredes, forros e demais acabamentos apresentados nesta unidade decorada também compõe a sugestão de decoração. A unidade autônoma será entregue conforme o padrão disposto no Memorial Descritivo, que integra o instrumento de compra e venda. Os acabamentos poderão ser modificados conforme o programa My Choice.</div>"
         },
         {
           "yaw": 0.07262920454434152,
