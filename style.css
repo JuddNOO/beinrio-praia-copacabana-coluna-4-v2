@@ -646,7 +646,7 @@ body.single-scene #sceneListToggle {
   position: absolute;
   width: 300px;
   height: auto;
-  max-height: 200px;
+  max-height: 600px;
   top: 40px;
   left: 0;
   padding: 12px 14px;
@@ -857,6 +857,30 @@ body.single-scene #sceneListToggle {
   -webkit-transition: opacity 0.3s ease-in-out 0.4s;
   transition: opacity 0.3s ease-in-out 0.4s;
 }
+
+/* ─── Info hotspot images ────────────────────────── */
+
+.info-hotspot-text .hotspot-img,
+.info-hotspot-modal-box .hotspot-img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin: 2px auto 10px auto;
+  display: block;
+}
+
+
+/* ─── Info hotspot logo ────────────────────────── */
+
+.info-hotspot-text .hotspot-logo,
+.info-hotspot-modal-box .hotspot-logo {
+  width: 40%;
+  height: auto;
+  border-radius: 4px;
+  margin: 20px 0 6px auto;
+  display: block;
+}
+
 
 /* ─── View control buttons ───────────────────────────────── */
 

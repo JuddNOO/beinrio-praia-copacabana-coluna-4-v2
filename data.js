@@ -54,8 +54,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -1.7146914371878132,
-          "pitch": 0.03160682728627151,
+          "yaw": 0.42171849288877006,
+          "pitch": 0.07243348312599274,
           "title": "Informação Decoração",
           "text": "Esta unidade decorada tem apenas a finalidade de ilustrar uma sugestão de decoração proposta para o objeto de venda. Móveis, marcenaria, bancadas, cubas, louças, metais, vidros, espelhos, utensílios, objetos de decoração, iluminação e sancas apresentados neste decorado são apenas sugestões de decoração, não integrando o contrato de compra e venda da unidade autônoma.<div>Os revestimentos de pisos, paredes, forros e demais acabamentos apresentados nesta unidade decorada também compõe a sugestão de decoração. A unidade autônoma será entregue conforme o padrão disposto no Memorial Descritivo, que integra o instrumento de compra e venda. Os acabamentos poderão ser modificados conforme o programa My Choice.</div>"
         },
@@ -184,16 +184,22 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
+          "yaw": 0.2795051569681277,
+          "pitch": -0.027296223956341237,
+          "title": "Informação Marcenaria",
+          "text": "<img src='assets/img-info-4.png' class='hotspot-img'> A marcenaria será entregue conforme imagens acima e Termo de Aceite apresentado ao cliente."
+        },
+        {
+          "yaw": 0.09449555291498868,
+          "pitch": 0.16144127832902377,
+          "title": "Informação Marcenaria",
+          "text": "<img src='assets/img-info-5.png' class='hotspot-img'> A marcenaria será entregue conforme imagens acima e Termo de Aceite apresentado ao cliente."
+        },
+        {
           "yaw": -2.4934563340184326,
           "pitch": -0.3676137505441428,
           "title": "Informação Climatização",
           "text": "O sistema de ar condicionado instalado nesta unidade decorada é apenas para sua comodidade e conforto.<div>O sistema de ar condicionado do empreendimento seguirá os padrões constantes no Memorial Descritivo que integra o instrumento de venda da unidade autônoma.</div>"
-        },
-        {
-          "yaw": -1.1462898228301608,
-          "pitch": 0.04141005918204854,
-          "title": "Informação Decoração",
-          "text": "Esta unidade decorada tem apenas a finalidade de ilustrar uma sugestão de decoração proposta para o objeto de venda. Móveis, marcenaria, bancadas, cubas, louças, metais, vidros, espelhos, utensílios, objetos de decoração, iluminação e sancas apresentados neste decorado são apenas sugestões de decoração, não integrando o contrato de compra e venda da unidade autônoma.<br>Os revestimentos de pisos, paredes, forros e demais acabamentos apresentados nesta unidade decorada também compõe a sugestão de decoração. A unidade autônoma será entregue conforme o padrão disposto no Memorial Descritivo, que integra o instrumento de compra e venda. Os acabamentos poderão ser modificados conforme o programa My Choice."
         }
       ],
       "minimap": "assets/2-cozinha.png"
@@ -251,6 +257,12 @@ var APP_DATA = {
         }
       ],
       "infoHotspots": [
+        {
+          "yaw": 2.2190719820096714,
+          "pitch": 0.0063534545209353865,
+          "title": "Informação Marcenaria",
+          "text": "<img src='assets/img-info-6.png' class='hotspot-img'> A marcenaria será entregue conforme imagens acima e Termo de Aceite apresentado ao cliente."
+        },
         {
           "yaw": 2.9738208663335737,
           "pitch": -0.06063882440944468,
@@ -312,7 +324,14 @@ var APP_DATA = {
           "target": "3-entrada-e-closet"
         }
       ],
-      "infoHotspots": [],
+      "infoHotspots": [
+        {
+          "yaw": -1.738940947274184,
+          "pitch": 0.3337645561132163,
+          "title": "Informação Marcenaria",
+          "text": "<img src='assets/img-info-7.png' class='hotspot-img'> A marcenaria será entregue conforme imagens acima e Termo de Aceite apresentado ao cliente."
+        }
+      ],
       "minimap": "assets/4-banheiro.png"
     }
   ],
